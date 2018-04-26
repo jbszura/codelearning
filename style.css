@@ -74,13 +74,6 @@ p {
 	margin: 1em 0;
 }
 
-/* footer */
-
-footer {
-	padding: 20px;
-	background: #f1f1f1;
-}
-
 li#best{
 	font-size:16px;
 	margin-bottom:5px;
@@ -98,3 +91,11 @@ li.horror{
 li.historical{
 	color:rgb(100, 57, 7);
 }
+
+/* footer */
+
+footer {
+	padding: 20px;
+	background: #f1f1f1;
+}
+
