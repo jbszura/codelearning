@@ -38,7 +38,7 @@ a{
 	transition: all 0.3s ease;
 }
 a:hover, a:visited, a:focus{
-	color: #b5e72b
+	color: #b5e72b;
 }
 
 .current a {
@@ -87,13 +87,13 @@ li#best{
 	color:goldenrod;
 }
 li.comedy{
-	color: rgb(31, 145, 160)
+	color: rgb(31, 145, 160);
 }
 li.drama{
 	color:rgb(62, 98, 218);
 }
 li.horror{
-	color:rgb(197, 57, 57)
+	color:rgb(197, 57, 57);
 }
 li.historical{
 	color:rgb(100, 57, 7);
